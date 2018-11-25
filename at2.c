@@ -19,7 +19,7 @@ int res=0;
 	printf("Devia para a vitima?\n");
 	scanf("%c",&r[3]);
 	fflush(stdin);
-	printf("Já trabalhou com a vitima?\n");
+	printf("JÃ¡ trabalhou com a vitima?\n");
 	scanf("%c",&r[4]);
 	fflush(stdin);
 
