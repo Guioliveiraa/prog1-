@@ -12,7 +12,7 @@ int main()
     
 	
 	
-	printf("Quantos telespectadores ser„o entrevistados?\n");
+	printf("Quantos telespectadores ser√£o entrevistados?\n");
 	scanf("%d", &telespec);
 	
 	for(i=0;i<telespec;i++)
@@ -32,7 +32,7 @@ int main()
 	
 		if(aux==0)
 		{
-			printf("VotaÁao encerrada\n");
+			printf("Vota√ßao encerrada\n");
 			return 0;
 		}
 		
